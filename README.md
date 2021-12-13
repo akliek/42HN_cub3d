@@ -41,5 +41,5 @@ After installation run next command:
 ```
           W, A, S, D - movement
           Arrows or Mouse - rotating
-          P - pause mode (press P again to go out form pause mode)
+          P - pause mode (press P again to go out from pause mode)
 ```
