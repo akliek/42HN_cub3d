@@ -1,7 +1,7 @@
 # 42HN_cub3d
 Summary:
 
-It is simple 3D game in C by using ray-casting algorithm.
+It is a simple 3D game in C by using the ray-casting algorithm.
 
 Foreword:
 
